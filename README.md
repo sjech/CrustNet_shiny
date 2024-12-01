@@ -1,7 +1,4 @@
----
-title: "CrustNet_shiny"
-output: pdf_document
----
+# CrustNet Map Shiny App
 
 See a version of it live at: 
 
