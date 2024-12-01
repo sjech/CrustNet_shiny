@@ -1,2 +1,20 @@
-# CrustNet_shiny
-A Shiny App for the CrustNet project for display on the CrustNet website
+---
+title: "CrustNet_shiny"
+output: pdf_document
+---
+
+See a version of it live at: 
+
+You can run this demo with:
+
+```
+if (!require(devtools))
+  install.packages("devtools")
+devtools::install_github("rstudio/leaflet")
+shiny::runGitHub("rstudio/shiny-examples", subdir="063-superzip-example")
+```
+
+
+
+
+
