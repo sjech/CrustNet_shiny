@@ -1,0 +1,5 @@
+Title: CrustNet Map
+DisplayMode: Normal
+Author: Sierra Jech <sierrajech.weebly.com>
+Type: Shiny
+Tags: leaflet selectize datatables absolutepanel
